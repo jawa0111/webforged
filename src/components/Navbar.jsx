@@ -57,7 +57,7 @@ export default function Navbar() {
     <header className={`navbar${scrolled ? ' navbar--scrolled' : ''}`}>
       <nav className="navbar__inner container" aria-label="Main navigation">
         <a href="#home" className="navbar__logo" onClick={(e) => go(e, '#home')}>
-          <img className="logo-wordmark" src="/webforged-logo.png" alt={site.name} />
+          <img className="logo-wordmark" src="/initcode-logo.png" alt={site.name} />
         </a>
 
         <ul className="navbar__links" role="list">

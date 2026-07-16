@@ -25,7 +25,7 @@ export default function Preloader({ onDone }) {
     <div className={`preloader${leaving ? ' preloader--leaving' : ''}`} aria-hidden="true">
       <div className="preloader__inner">
         <div className="preloader__logo">
-          <img className="logo-wordmark" src="/webforged-logo.png" alt={site.name} />
+          <img className="logo-wordmark" src="/initcode-logo.png" alt={site.name} />
         </div>
         <div className="preloader__bar">
           <span className="preloader__bar-fill" />

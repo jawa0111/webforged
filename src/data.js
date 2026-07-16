@@ -7,7 +7,7 @@
    ============================================================ */
 
 export const site = {
-  name: 'WebForged',
+  name: 'InitCode',
   tagline: 'Websites & web apps, built to grow your business.',
   email: 'jawakkerjude@gmail.com',
   phones: ['+94 76 780 5529', '+94 75 039 2268'],
@@ -100,7 +100,7 @@ export const services = [
 export const about = {
   heading: 'A small team obsessed with big results',
   paragraphs: [
-    'WebForged is a tight-knit crew of designers and engineers who believe great websites are grown, not assembled. We partner with businesses of every size — from solo founders to established brands — to craft digital products that look exceptional and perform even better.',
+    'InitCode is a tight-knit crew of designers and engineers who believe great websites are grown, not assembled. We partner with businesses of every size — from solo founders to established brands — to craft digital products that look exceptional and perform even better.',
     'Our approach is simple: modern design, obsessive performance, and measurable results. No bloated templates, no jargon, no surprises — just work we\'re proud to put our name on.',
   ],
   whyChooseUs: [
@@ -266,7 +266,7 @@ export const processSteps = [
 export const testimonials = [
   {
     quote:
-      'WebForged rebuilt our site in three weeks and enquiries doubled the first month. They felt like part of our team, not a vendor.',
+      'InitCode rebuilt our site in three weeks and enquiries doubled the first month. They felt like part of our team, not a vendor.',
     name: 'Sarah Mitchell',
     role: 'Owner, boutique retail brand',
     image:

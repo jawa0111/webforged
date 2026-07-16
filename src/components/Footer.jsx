@@ -13,7 +13,7 @@ export default function Footer() {
       <div className="container footer__inner">
         <div className="footer__brand">
           <a href="#home" className="footer__logo" onClick={(e) => go(e, '#home')}>
-            <img className="logo-wordmark" src="/webforged-logo.png" alt={site.name} />
+            <img className="logo-wordmark" src="/initcode-logo.png" alt={site.name} />
           </a>
           <p className="footer__tagline">{site.tagline}</p>
         </div>

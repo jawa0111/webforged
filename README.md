@@ -1,4 +1,4 @@
-# WebForged — Agency Portfolio
+# InitCode — Agency Portfolio
 
 A premium, single-page portfolio website for a web development agency. Built with **React + Vite** and vanilla CSS (design-token driven). Most effects use the Intersection Observer API, `requestAnimationFrame`, and CSS transitions; the interactive project selector in the Projects section additionally uses **framer-motion**.
 
